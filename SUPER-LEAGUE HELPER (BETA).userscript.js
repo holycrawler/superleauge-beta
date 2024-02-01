@@ -3,7 +3,7 @@
 // @version      2024-02-01
 // @description  helps gather stats for superleague
 // @author       mini18
-// @update       
+// @update       https://raw.githubusercontent.com/holycrawler/superleauge-beta/main/SUPER-LEAGUE%20HELPER%20(BETA).userscript.js
 // @match        https://www.dugout-online.com/forum/viewtopic/t/484171*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dugout-online.com
 // @grant        none
